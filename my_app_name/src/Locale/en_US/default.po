@@ -1,0 +1,78 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-07-10 12:29+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ContatoController.php:20
+msgid "Email enviado com sucesso"
+msgstr "Email successfully sent"
+
+#: Controller/ContatoController.php:22
+msgid "Erro ao enviar o e-mail"
+msgstr "Failed to send e-mail"
+
+#: Controller/ProdutosController.php:43
+msgid "Produto Salvo com Sucesso!!!"
+msgstr "Product saved successfully"
+
+#: Controller/ProdutosController.php:45
+msgid "Erro ao salvar!!"
+msgstr "Error in save"
+
+#: Controller/ProdutosController.php:72
+msgid "Produto Deletado com Sucesso!!!"
+msgstr "Product successfully removed"
+
+#: Controller/ProdutosController.php:75
+msgid "Erro ao deletar!!"
+msgstr "Error deleting the product"
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr "error"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "back"
+
+#: Template/Produtos/index.ctp:29
+msgid "Tem certeza que deseja apagar o produto"
+msgstr "yoooou"
+
+#: Template/Produtos/index.ctp:47
+msgid "Novo Produto"
+msgstr "New Product"
+
+#: Template/Produtos/index.ctp:49
+msgid "Logout"
+msgstr "logout"
+
+#: Template/Produtos/index.ctp:58
+msgid "Voltar"
+msgstr "back"
+
+#: Template/Produtos/index.ctp:60
+msgid "Avançar"
+msgstr "next"
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr "the request"
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr " an internal"
+
