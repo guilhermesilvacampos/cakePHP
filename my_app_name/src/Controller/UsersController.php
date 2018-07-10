@@ -34,7 +34,7 @@ public function salvar(){
 	if($usersTable->save($user)){
 		$this->Flash->set("Usuario Salvo com sucesso :)"); 
 	}else{
-		$this->Flash->set("Usuario não foi salvo :("); 
+		$this->Flash->set("Usuario não foi salvooooooooooooo :(");
 		
 	}
 	$this->redirect('Users/Adicionar');
